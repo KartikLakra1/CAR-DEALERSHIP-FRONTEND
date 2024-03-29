@@ -17,6 +17,7 @@ const CarsCard = ({ id, img, name, price }) => {
         <button className=" bg-secondary text-white text-base md:text-lg px-2 md:px-3 py-1 rounded-md hover:bg-primary transition duration-200 ease-linear">
           Book Now
         </button>
+
       </div>
     </div>
   );

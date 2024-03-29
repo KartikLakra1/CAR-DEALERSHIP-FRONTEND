@@ -20,7 +20,7 @@ const Approch = () => {
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci
           maiores obcaecati est natus fugiat officiis, iste ut harum consequatur
           laboriosam praesentium non velit perferendis perspiciatis temporibus,
-          error nemo itaque autem.
+          error nemo.
         </p>
       </div>
 
