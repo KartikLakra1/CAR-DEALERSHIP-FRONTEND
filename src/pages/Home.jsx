@@ -16,7 +16,9 @@ const Home = () => {
       <WhyUs />
       <OurMission />
       <CarNews />
+
       <Footer />
+
     </>
   );
 };
