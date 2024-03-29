@@ -7,7 +7,9 @@ const Services = () => {
   return (
     <>
       <Navbar />
-      <OurServices />
+      <
+        OurServices
+      />
       <Footer />
     </>
   );
