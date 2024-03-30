@@ -81,10 +81,7 @@ const CarNews = () => {
         Cars <span className=" text-primary">News & Advices</span>
       </h1>
 
-      <p className=" text-center">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero,
-        laborum!
-      </p>
+
 
       <div className=" mt-8">
         <Slider {...settings}>

@@ -13,7 +13,7 @@ const WhyUs = () => {
   return (
     <div className="flex flex-col justify-center container md:mt-16 py-10">
       <h1 className=" font-bold text-4xl text-center">
-        Why choose <span className=" text-primary">WheelsDeal </span>?
+        Why choose <span className=" text-red-600">RockerMotors </span>?
       </h1>
 
       <p className=" text-center">
