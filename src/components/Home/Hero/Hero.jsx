@@ -6,7 +6,7 @@ const Hero = () => {
     <div className=" bg-slate-800 text-white">
       <div className=" h-screen/2 p-5 container flex flex-col justify-center md:flex-row items-center">
         {/* content section  */}
-        <div className=" w-full md:w-2/4 space-y-5 mt-20">
+        <div className=" w-full md:w-full space-y-5 mt-20">
           <h1 className=" text-4xl lg:text-6xl font-bold leading-tight">
             Find Your Perfect Ride Today
           </h1>
