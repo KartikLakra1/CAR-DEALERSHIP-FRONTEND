@@ -15,9 +15,9 @@ const Navbar = () => {
       {/* desktop navigation section  */}
       <nav className=" container flex justify-between items-center">
         <div className=" flex items-center gap-2">
-          <GiSteeringWheel size={35} className=" text-primary" />
-          <Link to="/" className=" font-bold text-2xl">
-            WheelsDeal
+
+          <Link to="/" className=" font-bold text-3xl ">
+            RockerMotors
           </Link>
         </div>
 

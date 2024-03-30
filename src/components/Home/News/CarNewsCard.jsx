@@ -3,7 +3,7 @@ import React from "react";
 const CarNewsCard = ({ id, img, desc }) => {
   return (
     <div
-      className=" border-4 border-secondary rounded-md cursor-pointer hover:scale-95 duration-700 rounded-xl"
+      className=" border-4 border-secondary  cursor-pointer hover:scale-95 duration-700 rounded-xl"
       key={id}
     >
       <img src={img} alt="img" />

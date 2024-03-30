@@ -10,7 +10,7 @@ import img from "../assets/img/hero.jpg";
 
 const Home = () => {
   return (
-    <>
+    <div className="bg-black text-white w-full">
       <Navbar />
       <Hero />
 
@@ -27,7 +27,7 @@ const Home = () => {
 
       <Footer />
 
-    </>
+    </div>
   );
 };
 
